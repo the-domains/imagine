@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Imagine.]]></title>
+        <description><![CDATA[Imagine.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 01:56:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Soccer Plus Miami]]></title>
+            <description><![CDATA[<article><h1>Soccer Plus Miami</h1><p>dadadadsasadasdsad</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e250ef6c-e638-4a69-898d-a85a8fc82146.png"></article>]]></description>
+            <link>undefinedsoccer-plus-miami/index.html</link>
+            <guid isPermaLink="false">02250d1d-419f-424c-b953-91e7bba7875c</guid>
+            <pubDate>Sat, 05 Mar 2016 01:55:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
